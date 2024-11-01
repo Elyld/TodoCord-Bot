@@ -1,0 +1,18 @@
+# Ignore actual .env file with sensitive data
+.env
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Mac-specific files
+.DS_Store
+
+*.log
+
+Thumbs.db
+
+/logs
+
